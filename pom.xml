@@ -11,7 +11,6 @@
         <jdk.version>1.8</jdk.version>
         <property.build.sourceEncoding>UTF-8</property.build.sourceEncoding>
         <start-class>runner.Main</start-class>
-
     </properties>
  <dependencies>
      <dependency>
